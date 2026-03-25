@@ -11,3 +11,5 @@ npx create-react-app react-udemy-basic --template typescript
    https://qiita.com/thirai67/items/a76d1f62fc49cb81038c
 2. コンポーネント（45）
    ・関数コンポーネント、クラスコンポーネント
+3. イベント（46）
+4. props（46）
